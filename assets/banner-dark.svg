@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="zako-mio · 数据科学 × AI Agent 工程">
+<title>zako-mio · 数据科学 × AI Agent 工程</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060A14"/><stop offset="1" stop-color="#02040A"/></linearGradient><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#4A76D4"/></marker></defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<circle cx="262.32" cy="125.19" r="1.85" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="538.21" cy="160.39" r="0.8" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="629.37" cy="132.7" r="0.96" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="1053.65" cy="141.6" r="1.72" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="1049.08" cy="83.8" r="1.59" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="324.79" cy="109.71" r="1.95" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="763.89" cy="216.69" r="1.64" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="1008.06" cy="22.41" r="1.72" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="448.06" cy="56.18" r="1.13" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="374.02" cy="211.0" r="0.83" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="861.29" cy="131.89" r="1.66" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="638.54" cy="143.19" r="1.68" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="223.37" cy="22.11" r="1.66" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="919.36" cy="253.86" r="1.33" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="503.9" cy="124.63" r="1.27" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="737.13" cy="212.73" r="1.91" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="333.29" cy="35.68" r="1.23" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="899.09" cy="90.25" r="0.88" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="86.16" cy="42.06" r="1.53" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="907.94" cy="153.25" r="1.67" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="899.98" cy="270.27" r="1.56" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="156.18" cy="85.3" r="0.8" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="63.61" cy="167.88" r="1.58" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="945.45" cy="49.56" r="1.32" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="998.74" cy="143.54" r="1.39" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="359.38" cy="47.32" r="1.56" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="669.58" cy="212.06" r="1.82" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="1098.84" cy="240.25" r="1.96" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="193.84" cy="109.23" r="0.84" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="775.35" cy="272.0" r="0.8" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="1135.5" cy="104.69" r="0.96" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="75.93" cy="83.0" r="1.72" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="335.72" cy="168.75" r="0.95" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="381.26" cy="74.76" r="1.12" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="189.56" cy="43.31" r="1.35" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="528.34" cy="252.1" r="1.9" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="332.86" cy="201.79" r="1.65" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="890.26" cy="79.98" r="1.0" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="487.03" cy="124.62" r="0.77" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="484.1" cy="79.11" r="1.3" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="261.55" cy="104.29" r="0.97" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="401.2" cy="21.04" r="1.51" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="624.14" cy="35.17" r="1.54" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="667.82" cy="149.54" r="1.62" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="654.82" cy="66.11" r="1.68" fill="#1E3A8A" opacity="0.55"/>
+<circle cx="528.92" cy="250.07" r="1.94" fill="#1E3A8A" opacity="0.55"/>
+<rect x="0" y="0" width="6" height="300" fill="#2563EB"/>
+<rect x="64.0" y="102.0" width="96.0" height="96.0" rx="22" fill="#2563EB"/>
+<g transform="translate(64.0,102.0) scale(1.5)"><path d="M20 21h24L20 43h24" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="196.0" y="112.0" fill="#F4F7FC" font-family="system-ui,-apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="56.0" font-weight="700" dominant-baseline="central">zako-mio</text>
+<text x="198.0" y="162.0" fill="#C7D2FE" font-family="system-ui,-apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="25.0" font-weight="600" dominant-baseline="central">数据科学 × AI Agent 工程</text>
+<line x1="198.0" y1="188.0" x2="560.0" y2="188.0" stroke="#1B2740" stroke-width="1.5"/>
+<text x="198.0" y="212.0" fill="#8FA3BF" font-family="system-ui,-apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="18.0" dominant-baseline="central">知识图谱 · 交互式 DAG · 可复现交付</text>
+<line x1="953.03" y1="73.9" x2="1021.94" y2="134.2" stroke="#4A76D4" stroke-width="2" marker-end="url(#arw)"/>
+<line x1="1126.97" y1="73.9" x2="1058.06" y2="134.2" stroke="#4A76D4" stroke-width="2" marker-end="url(#arw)"/>
+<line x1="1040.0" y1="228.0" x2="1040.0" y2="174.0" stroke="#4A76D4" stroke-width="2" marker-end="url(#arw)"/>
+<circle cx="944.0" cy="66.0" r="10.0" fill="none" stroke="#60A5FA" stroke-width="2.5"/>
+<circle cx="1136.0" cy="66.0" r="10.0" fill="none" stroke="#60A5FA" stroke-width="2.5"/>
+<circle cx="1040.0" cy="240.0" r="10.0" fill="none" stroke="#60A5FA" stroke-width="2.5"/>
+<circle cx="1040.0" cy="150.0" r="16.0" fill="#60A5FA"/>
+<circle cx="1040.0" cy="150.0" r="10.0" fill="#060A14"/>
+<circle cx="1040.0" cy="150.0" r="7.0" fill="#60A5FA"/>
+<text x="1144" y="278.0" fill="#8FA3BF" font-family="system-ui,-apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.0" text-anchor="end" dominant-baseline="central">zako-mio.github.io</text>
+</svg>
